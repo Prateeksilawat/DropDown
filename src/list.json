@@ -1,0 +1,114 @@
+{
+    "State":[
+        {
+          "State_Name" : "Andhra Pradesh",
+
+          "Capital"  : "Amaravati" 
+        },
+        {
+            "State_Name" : "Arunachal Pradesh",
+            "Capital" : "Itanagar"
+        },
+        {
+            "State_Name":"Assam",
+            "Capital":"Dispur"
+        },
+        {
+            "State_Name":"Bihar",
+            "Capital":"Patna"
+        },
+        {
+            "State_Name":"Chattisgarh",
+            "Capital":"Raipur"
+        },
+        {
+            "State_Name":"Goa",
+            "Capital":"Panaji"
+        },
+        {
+            "State_Name":"Gujarat",
+            "Capital":"Gandhinagar"
+        },
+        {
+            "State_Name":"Haryana",
+            "Capital":"Chandigarh"
+        },
+        
+        {
+            "State_Name":"Himachal Pradesh",
+            "Capital":"Shimla"
+        },
+        {
+            "State_Name":"Jharkhand",
+            "Capital":"Ranchi"
+        },
+        {
+            "State_Name":"Karnataka",
+            "Capital":"Bengaluru"
+        },
+        {
+            "State_Name":"Kerala",
+            "Capital":"Thiruvananthapuram"
+        },
+        {
+            "State_Name":"Madhya Pradesh",
+            "Capital":"Bhopal"
+        },
+        {
+            "State_Name":"Maharasthra",
+            "Capital":"Mumbai"
+        },
+        {
+            "State_Name":"Manipur",
+            "Capital":"Imphal"
+        },
+        {
+            "State_Name":"Meghalaya",
+            "Capital":"Shillong"
+        },
+        {
+            "State_Name":"Mizoram",
+            "Capital":"Aizwal"
+        },
+        {
+            "State_Name":"Nagaland",
+            "Capital":"Kohima"
+        },
+        {
+            "State_Name":"Odisha",
+            "Capital":"Bhubaneswar"
+        },
+        {
+            "State_Name":"Punjab",
+            "Capital":"Chandigarh"
+        },
+        {
+            "State_Name":"Rajasthan",
+            "Capital":"Jaipur"
+        },
+        {
+            "State_Name":"Sikkim",
+            "Capital":"Gangtok"
+        },
+        {
+            "State_Name":"Tamil Nadu",
+            "Capital":"Chennai"
+        },
+        {
+            "State_Name":"Telangana",
+            "Capital":"Hyderabad"
+        },
+        {
+            "State_Name":"Uttar Pradesh",
+            "Capital":"Lucknow"
+        },
+        {
+            "State_Name":"Uttarakhand",
+            "Capital":"Dehradun"
+        },
+        {
+            "State_Name":"West Bengal",
+            "Capital":"Kolkata"
+        }
+    ]
+}
